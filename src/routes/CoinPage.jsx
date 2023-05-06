@@ -37,7 +37,7 @@ const CoinPage = () => {
                 ${coin.market_data.current_price.usd.toLocaleString()}
               </p>
             ) : null}
-            <p>7 Day</p>
+            <p>7 Day`s</p>
           </div>
           <div>
             <Sparklines data={coin.market_data?.sparkline_7d.price}>
