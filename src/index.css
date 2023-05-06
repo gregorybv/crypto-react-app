@@ -10,6 +10,7 @@
   @apply border border-secondary rounded-2xl shadow-xl bg-primary px-2 max-w-[1140px] w-full mx-auto
 }
 
+/* Dark theme */
 .dark {
   --color-bg-primary: #2d3748;
   --color-bg-primary: #2d3748;
@@ -21,6 +22,7 @@
   --color-bg-button: #81e6d9;
 }
 
+/* Light theme */
 .light {
   --color-bg-primary: #ffffff;
   --color-bg-secondary: #edf2f7;
