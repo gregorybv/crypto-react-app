@@ -24,11 +24,11 @@
 
 /* Light theme */
 .light {
-  --color-bg-primary: #ffffff;
-  --color-bg-secondary: #edf2f7;
+  --color-bg-primary: #e9e5e5;
+  --color-bg-secondary: #f0f3f6;
   --color-text-primary: #2d3748;
   --color-text-secondary: #4a5568;
   --color-text-accent: #2b6cb0;
-  --color-bg-input: #edf2f7;
+  --color-bg-input: #fafafa;
   --color-bg-button: #2b6cb0;
 }
